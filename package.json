@@ -1,0 +1,22 @@
+{
+  "name": "pontos-de-recarga-salvadorcard",
+  "version": "0.0.1",
+  "description": "Umas simples express api para ajudar estudantes soteropolitanos postos de recarga do SalvadorCard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baacelar/pontos-de-recarga-salvadorcard.git"
+  },
+  "author": "baacelar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baacelar/pontos-de-recarga-salvadorcard/issues"
+  },
+  "homepage": "https://github.com/baacelar/pontos-de-recarga-salvadorcard#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
